@@ -1,0 +1,24 @@
+<div class="container mainContainer">
+
+    <div class="row">
+  <div class="col-md-12" id="active">
+      
+        <?php if ($_GET['userid']) { ?>
+      
+      <?php displayTweets($_GET['userid']); ?>
+      
+      <?php } else { ?> 
+        
+        <h2 id="activeUser">Active Users</h2>
+        
+        <?php displayUsers(); ?>
+      
+      <?php } ?>
+      
+      
+      
+        </div>
+ 
+</div>
+    
+</div>

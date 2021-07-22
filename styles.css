@@ -1,0 +1,229 @@
+
+
+#loginAlert {
+    
+    display:none;
+    
+}
+
+#tweetSuccess {
+    
+    display:none;
+    
+}
+
+#tweetFail {
+    
+    display:none;
+    
+}
+
+.mainContainer {
+    padding: 20px;
+}
+
+.time {
+    
+    color: lightgrey;
+    
+}
+
+.tweet {
+    border: 1px solid grey;
+    border-radius: 10px;
+     box-shadow: 5px 5px 5px grey;
+    padding-left:  15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+    background: white;
+}
+
+
+#toggleLogin {
+    padding-right: 240px;
+}
+
+#myModal {
+    background: url(img/gradiant3.png) no-repeat;
+     background-size: cover;
+    
+}
+
+.modal-dialog {
+    margin-top: 100px;
+}
+
+.modal-content {
+    
+}
+
+#menuBar {
+    background: white;
+    border-radius: 0px;
+    padding: 4px 15px;
+    border-bottom: 1px solid grey;
+}
+
+.nav-item {
+    margin-top: 8px;
+   
+}
+
+.btn-success-outline {
+    margin-top: 8px;
+    color: black;
+    border-color: black;
+}
+
+.btn-success-outline:hover {
+    background: black;
+    color: white;
+}
+
+#tweetContent {
+    height: 200px;
+    width: 310px;
+    
+}
+
+.col-md-8 {
+    margin-left: -30px;
+    
+}
+
+.col-md-4 {
+    border: 1px solid grey;
+    border-radius: 20px;
+    padding: 20px 30px;
+    margin-left: 30px;
+    margin-top: 40px;
+    background-color: 4396E5;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.followUnfollow {
+    margin-top:  -60px;
+    margin-right: 20px;
+    text-decoration: none;
+    border: none;
+    border-style: none;
+    background: #2F9FB6;
+    color: white;
+    padding: 7px 10px;
+    float: right;
+    border-radius: 5px;
+}
+
+.followUnfollow:hover {
+    background: #0275D8;
+}
+
+
+#copyright {
+   color: black;
+}
+
+#recent {
+    border: 1px solid black;
+    border-left: none;
+    margin-left: -95px;
+    margin-bottom: 30px;
+    width: 290px;
+    background-color: dodgerblue;
+    color: white;
+    padding: 7px 7px;
+}
+
+#youFollow {
+    border: 1px solid grey;
+    margin-left: -95px;
+    margin-bottom: 30px;
+    width: 180px;
+    background-color: dodgerblue;
+    color: white;
+    padding: 7px 7px; 
+}
+
+#yourComment {
+    border: 1px solid grey;
+    margin-left: -95px;
+    margin-bottom: 30px;
+    width: 250px;
+    background-color: dodgerblue;
+    color: white;
+    padding: 7px 7px;
+}
+
+#activeUser {
+    border: 1px solid grey;
+    margin-left: -95px;
+    margin-bottom: 30px;
+    width: 200px;
+    background-color: dodgerblue;
+    color: white;
+    padding: 7px 7px;
+}
+
+#publicUser {
+   
+    float: left;
+    margin-left: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px grey;
+    background-color: white;
+    width: 240px;
+    padding: 7px 10px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-size: 15px;
+
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  background-image: url(img/newbg2.png); 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+   
+
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  line-height: 60px; /* Vertically center the text there */
+  background-color: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
